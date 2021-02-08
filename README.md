@@ -22,7 +22,7 @@ End-users are students and professionals who have a need to submit handwritten w
 
 ### How?
 
-A user will take a picture of the document and save it as a pdf file to his or her phone. While taking a picture, the user can adjust lighting/exposure/contrast, drag dots to corners of the text to adjust any potential skewness, crop the text; then, the user can press a button to (i) save the edited image as a pdf file (ii) extract text and save the text as a pdf file(iii) extract text, translate it and save the result as a pdf file.
+A user will take a picture of the document and save it as a pdf file to his or her phone. While taking a picture, the user can adjust lighting/exposure/contrast, drag dots to corners of the text to adjust any potential skewness, crop the text; then, the user can press a button to (i) save the edited image as a pdf file, (ii) extract text and save the text as a pdf file, (iii) extract text, translate it and save the result as a pdf file.
 
 ### Scope
 
