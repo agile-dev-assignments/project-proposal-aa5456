@@ -2,7 +2,7 @@
 
 ## Project title
 
-IvyScanner: scan and translate your documents.
+IvyScanner: scan and edit your documents.
 
 ### What?
 
